@@ -1,0 +1,1 @@
+ for $x in doc('books.xml')return $x/DataBases 
